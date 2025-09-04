@@ -1,0 +1,10 @@
+# Ignorar carpetas de dependencias
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Ignorar logs y otros archivos generados
+npm-debug.log*
+yarn-debug.log*
+.env
+.DS_Store
